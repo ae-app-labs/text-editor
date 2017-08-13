@@ -1,0 +1,17 @@
+{
+  "name": "transparent-text-editor",
+  "productName": "Text Editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+	"startFlags": "electron . --enable-transparent-visuals --disable-gpu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
