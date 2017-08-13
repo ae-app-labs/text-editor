@@ -11,7 +11,7 @@ app.on("ready", _ =>{
       width: 350,
 		transparent: true,
 		frame: false,
-		toolbar: true
+		toolbar: false
     });
 
     win.loadURL(`file://${__dirname}/editor.html`)
