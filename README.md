@@ -1,7 +1,7 @@
 # Text Editor
 A text editor based on electron to help with multitasking.
 
-[Text Editor](./resources/awesome-v1.png)
+![Text Editor](resources/awesome-v1.png)
 
 # Installation
 Clone the repository and install dependencies and start
