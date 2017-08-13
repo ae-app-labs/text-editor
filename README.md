@@ -1,5 +1,5 @@
 # Text Editor
-A text editor based on electron
+A text editor based on electron to help with multitasking.
 
 [Text Editor](./resources/awesome-v1.png)
 
@@ -10,3 +10,6 @@ Clone the repository and install dependencies and start
   `cd text-editor`  
   `npm install`  
   `npm start`
+  
+# Known Issues
+Transparancy won't work on Windows when WDM is disabled
